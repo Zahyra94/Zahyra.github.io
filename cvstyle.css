@@ -26,6 +26,7 @@ h2{
 }
 p{
 	text-indent:25px;
+	text-align:justify;
 }
 .workplace_details{
 	font-weight:bold;
@@ -90,4 +91,5 @@ ul li{
 	flex-direction:column;
 	flex-wrap:wrap;
 }
+
 
