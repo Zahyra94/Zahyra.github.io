@@ -49,16 +49,18 @@ ul li{
 	justify-content:center;
 }
 .top{
-	/* no longer need this to visualise
-	border: 1px #000000 solid; /* black */
+	/* putting back in a border to make it stand out better after changing the background colour */
+	border: 1px #ffffff solid;
 	justify-content:center;
-	padding: 5%;
+	padding: 1%;
 	text-align: center;
+	background-color:#002060;
+	color:#ffffff;
 }
 .side_panel{
 	color:#ffffff;
-	/* no longer need this to visualise
-	border: 1px #ff0000 solid; /* red */
+	/* putting back in a border to make it stand out better after changing the background colour in top class */
+	border: 1px #ffffff solid;  
 	background-color: #002060;
 	width:25%;
 	padding:5px;
@@ -94,6 +96,7 @@ ul li{
 	flex-direction:column;
 	flex-wrap:wrap;
 }
+
 
 
 
