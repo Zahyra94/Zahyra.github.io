@@ -1,0 +1,92 @@
+body{
+	text-align:center;
+}
+.italic{
+	font-style:italic;
+	font-size:11;
+}
+.bold{
+	font-weight:bold;
+}
+h1{
+	font-family:Verdana;
+	font-size:16;
+	font-weight:bold;
+}
+h3{
+	font-family:Arial;
+	font-size:12;
+}
+h2{
+	font-family:Verdana;
+	font-size:12;
+	font-style:italic;
+	font-weight:bold;
+	text-decoration:overline underline;
+}
+p{
+	text-indent:25px;
+}
+.workplace_details{
+	font-weight:bold;
+	text-decoration:overline underline;
+}
+ul{
+	list-style-position:outside;
+}
+ul li{
+	text-align:left;
+}
+.page{
+	/* no longer need this to visualise
+	border: 1px #008000 solid; /* green */
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.top{
+	/* no longer need this to visualise
+	border: 1px #000000 solid; /* black */
+	justify-content:center;
+	padding: 15%;
+	text-align: center;
+}
+.side_panel{
+	color:#ffffff;
+	/* no longer need this to visualise
+	border: 1px #ff0000 solid; /* red */
+	background-color: #002060;
+	width:25%;
+	padding:5px;
+}
+.main_page{
+	/* no longer need this to visualise
+	border: 1px #0000ff solid; /* blue */
+	width:70%;
+	padding:20px;
+}
+/*not used for the moment, as the other ones turned out to be 3 already: top, side_panel and main_page */
+.box_1{
+	/* no longer need this to visualise
+	border: 1px #ff8000 solid; /* orange */
+	margin:5px;
+	padding:5px;
+	flex-direction:column;
+	flex-wrap:wrap;
+}
+.box_2{
+	/* no longer need this to visualise/* no longer need this to visualise
+	border: 1px #ff8000 solid; /* orange */
+	margin:5px;
+	padding:5px;
+	flex-direction:column;
+	flex-wrap:wrap;
+}
+.box_3{
+	/* no longer need this to visualise
+	border: 1px #ff8000 solid; /* orange */
+	margin:5px;
+	padding:5px;
+	flex-direction:column;
+	flex-wrap:wrap;
+}
