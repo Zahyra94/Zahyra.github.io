@@ -48,7 +48,7 @@ ul li{
 	/* no longer need this to visualise
 	border: 1px #000000 solid; /* black */
 	justify-content:center;
-	padding: 15%;
+	padding: 5%;
 	text-align: center;
 }
 .side_panel{
@@ -89,4 +89,5 @@ ul li{
 	padding:5px;
 	flex-direction:column;
 	flex-wrap:wrap;
+
 }
